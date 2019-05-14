@@ -6,7 +6,54 @@ html {
   height: 100%;
 }
 
+.clouds {
+  background-image: url(/images/output.svg);
+  height: 500px;
+}
+header {
+  margin: 0rem;
+}
+
+header h1 {
+  color: goldenrod;
+  font-size: 5rem;
+  margin-top: 0;
+  margin-left: 24rem;
+  padding-top: 15rem;
+}
+
+header h3 {
+  font-family: 'Merriweather', serif;
+  color: darkslategrey;
+  font-size: 2.5rem;
+  margin-left: 35rem;
+  margin-top: -3rem;
+}
+
 body {
   margin: 0;
   min-height: 100%;
+}
+
+.city-info {
+  margin-left: 36rem;
+  padding-right: 10rem;
+}
+
+.da-weather-1 {
+  color: goldenrod;
+  font-size: 2rem;
+}
+
+.da-weather-2 {
+  color: goldenrod;
+  font-size: 2rem;
+}
+
+.da-weather-3 {
+  color: goldenrod;
+  font-size: 2rem;
+}
+
+.weather-data {
 }
